@@ -2,6 +2,10 @@
 
 This is an App that allows the user to track data on Covid 19, displays global information, and can also select a country from a list selector.
 
+## Demo
+
+You can run the demo [here](https://brave-yalow-879907.netlify.app/)
+
 ## Tech Stack
 
 **Client:** React, Material UI, Chart.js, Axios
